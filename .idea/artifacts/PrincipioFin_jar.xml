@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrincipioFin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrincipioFin_jar</output-path>
+    <root id="archive" name="PrincipioFin.jar">
+      <element id="module-output" name="PrincipioFin" />
+    </root>
+  </artifact>
+</component>
